@@ -4,16 +4,17 @@
     border: 1px solid red;
     font-family: 'Oswald', sans-serif;
     text-align: center;
-    margin: 40px;
+    margin-right: 90px;
+    margin-left: 90px;
 }
 
 #title {
     background: yellow;
     /*add CSS here*/
     margin-top: 20px;
-    margin-right:50px;
+    margin-right:90px;
     margin-bottom: 20px;
-    margin-left: 50px;
+    margin-left: 90px;
     
 }
 
@@ -21,7 +22,7 @@
     background: black;
     color: white;
     /*add CSS here*/
-    margin: 50px
+    margin: 90px
 }
 
 .topic {
@@ -29,6 +30,6 @@
     /*add CSS here*/
     display: inline-block;
     margin-right: 150px;
-    margin-left:150px;
+    margin-left: 150px;
 }
 
