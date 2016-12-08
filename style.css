@@ -10,9 +10,9 @@
     background: yellow;
     /*add CSS here*/
     margin-top: 20px;
-    margin-right:100px;
+    margin-right:50px;
     margin-bottom: 20px;
-    margin-left: 100px;
+    margin-left: 50px;
     
 }
 
@@ -20,12 +20,12 @@
     background: black;
     color: white;
     /*add CSS here*/
-    margin: 100px
+    margin: 50px
 }
 
 .topic {
     background: lightgray;
     /*add CSS here*/
-    display: bloc;
+    display: inline-block;
 }
 
