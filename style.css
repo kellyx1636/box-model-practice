@@ -27,5 +27,7 @@
     background: lightgray;
     /*add CSS here*/
     display: inline-block;
+    margin-right: 150px;
+    margin-left:150px;
 }
 
