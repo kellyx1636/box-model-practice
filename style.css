@@ -20,12 +20,12 @@
     background: black;
     color: white;
     /*add CSS here*/
-    margin: auto;
+    margin: 100px
 }
 
 .topic {
     background: lightgray;
     /*add CSS here*/
-    display: block;
+    display: bloc;
 }
 
